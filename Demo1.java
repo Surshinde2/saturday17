@@ -34,3 +34,4 @@ AndroidDriver driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub")
 ///driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 		}
 }
+the is appium scripts used to automate java appium client
